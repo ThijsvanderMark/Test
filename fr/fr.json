@@ -1,0 +1,16 @@
+{
+    "menu": {
+        "en": "Anglais",
+        "es": "Espagnol",
+        "home": "Maison",
+        "about": "À propos de",
+        "contact": "Contactez-nous"
+    },
+    "main": {
+        "welcome": "Bonjour de Localise !",
+        "new_message": "aucun message | un message | {count} messages"
+    },
+    "about": {
+        "welcome": "Bienvenue sur la page À propos !"
+    }
+}
