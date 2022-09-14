@@ -1,16 +1,16 @@
 {
-    “menu”: {
-        “en”: “English”,
-        “es”: “Spanish”,
-        “home”: “Home”,
-        “about”: “About”,
-        “contact”: “Contact us”
+    "menu": {
+        "en": "English",
+        "es": "Spanish",
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact us"
     },
-    “main”: {
-        “welcome”: “Hello from Lokalise!“,
-        “new_message”: “no messages | one message | {count} messages”
+    "main": {
+        "welcome": "Hello from Lokalise!",
+        "new_message": "no messages | one message | {count} messages"
     },
-    “about”: {
-        “welcome”: “Welcome to the About page!”
+    "about": {
+        "welcome": "Welcome to the About page!"
     }
 }
